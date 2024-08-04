@@ -1,0 +1,32 @@
+button{
+    border-radius: 10px;
+    border-style: none;
+    background-color: green;
+    color: white;
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+input{
+    margin-top: 30px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.heading{
+    margin-top: 20px;
+}
+body{
+    background-color: azure;
+}
+#bday{
+    color: blue;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#Age{
+    color: blueviolet;
+    font-size: 20px;
+    margin-top: 20px;
+}
